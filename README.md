@@ -4,4 +4,4 @@ The project demonstrates implementation of a convolutional autoencoder which att
 
 The dataset used for this project is MNIST.
 
-The  wrapper for deep learning framework Tensorflow, TFLearn is used to implement this project.
+TFLearn wrapper for deep learning framework Tensorflow is used to implement this project.
